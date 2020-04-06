@@ -70,6 +70,20 @@ comments: false
 		<i>Computer Science</i></p>
 	</div> 
 </div> 
+<div class="row">
+	<div class="col-md-5" style="padding: 30px;text-align: center;">
+		<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin-bottom:20px;" src="{{ site.baseurl }}/assets/images/anmol.jpg" alt="Anmol Seth" width="220" height="223">
+		<h6 style="text-align: center;">Anmol Seth</h6>
+		<p style="text-align: center;">Undergraduate<br>
+		<i>Public Health &amp; Molecular and Cell Biology</i></p>
+	</div> 
+<!-- 	<div class="col-md-5" style="padding: 30px;text-align: center;">
+		<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin-bottom:20px;" src="{{ site.baseurl }}/assets/images/stephanie.png" alt="Stephanie Djajadi" width="220" height="223">
+		<h6 style="text-align: center;">Stephanie Djajadi</h6>
+		<p style="text-align: center;">Undergraduate<br>
+		<i>Computer Science</i></p>
+	</div>  -->
+</div> 
  
 
 <br>
