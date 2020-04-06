@@ -95,6 +95,10 @@ section.recent-posts {
         -moz-column-count: 2;
         column-count: 2;
     }
+
+    .lead {
+        font-size: 22px;
+    }
 }
 
 @media (min-width:992px) {
