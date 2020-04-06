@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: COVID-19
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
